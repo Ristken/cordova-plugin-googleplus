@@ -1,3 +1,12 @@
+Changes from [EddyVerbruggen/cordova-plugin-googleplus][original]:
+
+- [Patch applied to fix G+ window not properly closing on ios 9.][ios9-fix]
+
+[original]: https://github.com/EddyVerbruggen/cordova-plugin-googleplus
+[ios9-fix]: https://github.com/EddyVerbruggen/cordova-plugin-googleplus/issues/227#issuecomment-227674026
+
+---
+
 # Google Sign-In Cordova/PhoneGap Plugin
 by [Eddy Verbruggen](http://twitter.com/eddyverbruggen)
 
